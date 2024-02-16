@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+         /*link를 알기 위한 코드*/
+        .link:link{
+            color: antiquewhite; /*색상 지정*/
+        }
+         /*visited 알기 위한 코드*/
+        #visited:visited{
+            color: aqua;/*색상 지정*/
+        }
+        /*hover를 알기 위한 코드*/
+        #hover:hover{
+            color: orange;/*색상 지정*/
+        }
+        /*visited를 알기 위한 코드*/
+        active:active{
+            color: black;/*색상 지정*/
+        }
+    </style>
+</head>
+<body>
+     <!--visited를 알기 위한 코드-->
+     <a id="visited" href="https://www.canva.com/design/DAF8xXxcwd4/rxLAuCQRLwFSwfDC-ylnXw/edit">세종 대왕 ❤️</a>
+    <!-- 가상 요소 hover를 알기 위한 코드-->
+     <p id="hover">세종 대왕 ❤️</p>
+      <!--가상 클래 link를 알기 위한 코드-->
+      <a class="link" href="https://ko.wikipedia.org/wiki/%E3%84%B1">이순신 ❤️</a> <br>
+      <!-- 가상 요소 active를 알기 위한 코드-->
+      <a id="active" href="https://www.w3schools.com/css/css_pseudo_classes.asp">세종 대왕 ❤️</a>
+</body>
+</html>

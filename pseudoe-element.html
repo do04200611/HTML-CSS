@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /*지정된 요소의 글자를 p태그 뒤에 지정*/
+       .after::after{
+            /*글자 출력*/
+            content : '저는 김강현 입니다.';
+            color: blue;/*글자 색 지정*/
+        }
+        /*지정된 요소의 글자를 p태그 앞에 지정*/
+        #before::before{
+            /*글자 출력*/
+            content : 'before를 알기 위한 코드입니다.';
+        }
+        /*지정된 요소의 첫 번째 글자 색 변경*/
+        #first-letter::first-letter{
+            color: aqua;/*글자 색 지정*/
+        }
+        /*지정된 요소의 첫 번째 줄에 스타일 적용 */
+        #first-line::first-line{
+            color: blueviolet;
+        }
+    </style>
+</head>
+<body>
+    <!--가상 요소 after를 알기 위한 코드-->
+    <p class="after">이순신 ❤️</p>
+    <!--before를 알기 위한 코드-->
+    <p id="before">세종 대왕 ❤️</p>
+    <!-- 가상 요소 first-letter 알기 위한 코드-->
+    <p id="first-letter">세종 대왕 ❤️</p>
+     <!-- 가상 요소 first-line을 알기 위한 코드-->
+     <p id="first-line">세종 대왕 ❤️</p>
+</body>
+</html>
