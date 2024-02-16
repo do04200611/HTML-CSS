@@ -10,20 +10,15 @@
 c++을 쓰면서 배웠던 것을 올려놓은 걸 모아놓은 레파지토리입니다.
 
 # result
- <a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp">
-    <img src="https://github.com/do04200611/cplusplus/assets/74278578/ff06f7ed-4bde-4d0c-92f3-7226b5152756">
-  </a><br>
-<a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/Rectangel.cpp">
-   <img src="https://github.com/do04200611/C/assets/74278578/86bfef3f-c266-4ec1-bc99-b57fdbde30bd">
-</a>
+<a href="https://github.com/do04200611/HTML-CSS/blob/main/pseudoe-element.html"><img src="https://github.com/do04200611/HTML-CSS/assets/74278578/1c8e273c-2bf8-41cc-9285-0e112abe3154"></a><br>
+<a href="https://github.com/do04200611/HTML-CSS/blob/main/pseudo-class.html"><img src="https://github.com/do04200611/HTML-CSS/assets/74278578/87b263db-969b-484f-aee0-ed8eb13c32d2"></a>
 
  # project
 
   |結果                                                                                                                                                            | 期間          | 説明               |
   |----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------|
-  |<a href="https://github.com/do04200611/HTML-CSS/blob/main/pseudoe-element.html"><img src="https://github.com/do04200611/HTML-CSS/assets/74278578/1c8e273c-2bf8-41cc-9285-0e112abe3154"></a>|2024/01/07|구구단과 글자 두 개를 다른 위치에 출력시킵니다.|
- |<a href="https://github.com/do04200611/C/blob/main/helloworld/helloworld/%EC%86%8C%EC%8A%A4.cpp"><img src="https://github.com/do04200611/C/assets/74278578/84dc1d31-2abb-4264-8c79-cca8cb7112ae"></a>|2024/01/07|printf만 쓴 것입니다. | 
- | <a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/Rectangel.cpp"><img src="https://github.com/do04200611/C/assets/74278578/f55f9901-fea9-4c73-bd61-24fcf0152676"></a>|2024/02/12|동그라미, 사각형등의 다양한 도형의 색이나 스타일을 지정해서 출력시킵니다.| 
+  |<a href="https://github.com/do04200611/HTML-CSS/blob/main/pseudoe-element.html"><img src="https://github.com/do04200611/HTML-CSS/assets/74278578/1c8e273c-2bf8-41cc-9285-0e112abe3154"></a>|2024/02/16|가상 요소에 대해서 공부한 코드입니다.|
+ |<a href="https://github.com/do04200611/HTML-CSS/blob/main/pseudo-class.html"><img src="https://github.com/do04200611/HTML-CSS/assets/74278578/87b263db-969b-484f-aee0-ed8eb13c32d2"></a>|2024/02/16|가상 클래스에 대해서 공부한 코 입니다. | 
 
 
 # react about
