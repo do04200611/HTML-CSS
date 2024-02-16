@@ -24,8 +24,8 @@ c++을 쓰면서 배웠던 것을 올려놓은 걸 모아놓은 레파지토리�
 # react about
   | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
-    |[HTML 대한 개념 정리 블로그](  https://kim-kang-hyun.tistory.com/4)|2024/01/10|HTML에 대한 개념 정리를 했습니다.|
-    |[CSS 대한 개념 정리 블로그](https://kim-kang-hyun.tistory.com/10)|2024/02/16|CSS에 대한 개념 정리를 했습니다.|
+  |[HTML 대한 개념 정리 블로그](  https://kim-kang-hyun.tistory.com/4)|2024/01/10|HTML에 대한 개념 정리를 했습니다.|
+  |[CSS 대한 개념 정리 블로그](https://kim-kang-hyun.tistory.com/10)|2024/02/16|CSS에 대한 개념 정리를 했습니다.|
   |[가상 요소와 가상 클래스 대한 개념 정리 블로그](https://kim-kang-hyun.tistory.com/9)|2024/02/16|가상 요소와 가상 클래스에 대한 개념 정리를 했습니다.|
  
 # Contact 
