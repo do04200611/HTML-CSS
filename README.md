@@ -13,7 +13,7 @@ HTML과 CSS를 쓰면서 배웠던 것을 올려놓은 걸 모아놓은 레파�
 # result
 <a href="https://github.com/do04200611/HTML-CSS/blob/main/pseudoe-element.html"><img src="https://github.com/do04200611/HTML-CSS/assets/74278578/1c8e273c-2bf8-41cc-9285-0e112abe3154"></a><br>
 <a href="https://github.com/do04200611/HTML-CSS/blob/main/pseudo-class.html"><img src="https://github.com/do04200611/HTML-CSS/assets/74278578/87b263db-969b-484f-aee0-ed8eb13c32d2"></a>
-<a href="https://65d3fc2f9e9f6b5a66500465--prismatic-sorbet-550cbe.netlify.app/">
+<a href="https://65d3fc2f9e9f6b5a66500465--prismatic-sorbet-550cbe.netlify.app/"><p>애니메이션 적용 페이지</p>
 
 
  # project
