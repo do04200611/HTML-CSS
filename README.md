@@ -24,7 +24,7 @@ HTML과 CSS를 쓰면서 배웠던 것을 올려놓은 걸 모아놓은 레파�
  |<a href="https://github.com/do04200611/HTML-CSS/blob/main/pseudo-class.html"><img src="https://github.com/do04200611/HTML-CSS/assets/74278578/87b263db-969b-484f-aee0-ed8eb13c32d2"></a>|2024/02/16|가상 클래스에 대해서 공부한 코 입니다. | 
 
 
-# react about
+# HTML & CSS about
   | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
   |[HTML 대한 개념 정리 블로그](  https://kim-kang-hyun.tistory.com/4)|2024/01/10|HTML에 대한 개념 정리를 했습니다.|
